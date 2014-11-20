@@ -1,1 +1,1 @@
-angular.module('borg', []);
+angular.module('borg', ['thinkster']);
